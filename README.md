@@ -1,1 +1,2 @@
+[![Stories in Ready](https://badge.waffle.io/SWOODY78/https-www.bookdrappointment.com-.png?label=ready&title=Ready)](https://waffle.io/SWOODY78/https-www.bookdrappointment.com-)
 # https-www.bookdrappointment.com-
